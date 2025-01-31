@@ -51,7 +51,7 @@ personal-philosophies:
     "What is to Give Light must Endure Burning" - Viktor Frankl,
     "There is No Prize to Perfection, Only an End to Pursuit" - Viktor, Arcane,
     "Do it or Don't Do it, You will Regret Both" - Soren Kirekegaard
-    
+  ]
 
 hobbies: [Gaming, Animated Films and Series, Volleyball, Pokemon]  
 ```
