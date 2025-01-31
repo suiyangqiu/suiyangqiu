@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Welcome!&textBg=false&animation=fadeIn"/>
 </p>
-<h2> Feel Free to Reach Out and Connect! </h2>
+<h1> Feel Free to Reach Out and Connect! </h1>
 <a href="https://www.linkedin.com/in/suiyang-qiu-20b84821b/">
-  <img height="50" src="https://github.com/user-attachments/assets/92652cbc-0e53-4f21-9ba4-5d51469a2b8d" title="LinkedIn">
+  <img height="100" src="https://github.com/user-attachments/assets/92652cbc-0e53-4f21-9ba4-5d51469a2b8d" title="LinkedIn">
 </a>
 <a href="mailto:michaelsuiyangqiu@gmail.com">
-  <img height="50" src="https://github.com/user-attachments/assets/9579060b-cca6-4cf8-9150-14cc1f7c418c" title="Email">
+  <img height="100" src="https://github.com/user-attachments/assets/9579060b-cca6-4cf8-9150-14cc1f7c418c" title="Email">
 </a>
 <h2> Proficient Tools & Languages</h2>
 <a>
@@ -21,27 +21,37 @@
   <img height="50" src="https://github.com/user-attachments/assets/7d3816ef-00b6-49b1-95e3-10c21e4ffab3" title = "CSS"> 
 </a>
 <h2> A Bit About Me and My Interests </h2>
+
 ```yaml
-# Example YAML block in a GitHub README
-name: Example
-version: "1.0"
-description: This is a sample YAML snippet for a README file
-dependencies:
-  - python: ">=3.8"
-  - django: ">=4.0"
+name: Suiyang (Michael) QIU
+located-in: Sydney, Australia
+education:
+  [
+    4th Bachelor of Engineering Honours (Software Engineering)
+  ]
+
+fields-of-interest:
+  [
+    Game Development,
+    Web Development,
+    Data Science,
+    Machine Learning,
+    Cyber Security
+  ]
+
+current-projects-and-goals:
+  [
+    Thesis Topic - Using Machine Learning to Determine and Predict the Factors behind Game Failures,
+    Designing and Deploying Personal Portfolio Website,
+    Designing and Deploying a Website for Hobbyist Pokemon Card Collectors
+  ]
+
+personal-philosophies:
+  [
+    "What is to Give Light must Endure Burning" - Viktor Frankl,
+    "There is No Prize to Perfection, Only an End to Pursuit" - Viktor, Arcane,
+    "Do it or Don't Do it, You will Regret Both" - Soren Kirekegaard
+    
+
+hobbies: [Gaming, Animated Films and Series, Volleyball, Pokemon]  
 ```
-
-<!--
-**Suiverain/Suiverain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
