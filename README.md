@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello There! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Testing%20For%20Fun!%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <!--
 **Suiverain/Suiverain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
