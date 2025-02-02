@@ -27,7 +27,7 @@ name: Suiyang (Michael) QIU
 located-in: Sydney, Australia
 education:
   [
-    4th Bachelor of Engineering Honours (Software Engineering)
+    4th Bachelor of Engineering Honours (Software Engineering) - University of Sydney
   ]
 
 fields-of-interest:
