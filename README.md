@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Welcome!&textBg=false&animation=fadeIn"/>
 </p>
 <h1> Feel Free to Reach Out and Connect! </h1>
-<a href="https://www.linkedin.com/in/suiyang-qiu-20b84821b/">
+<a href="https://www.linkedin.com/in/suiyang-qiu/">
   <img height="100" src="https://github.com/user-attachments/assets/92652cbc-0e53-4f21-9ba4-5d51469a2b8d" title="LinkedIn">
 </a>
 <a href="mailto:michaelsuiyangqiu@gmail.com">
