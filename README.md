@@ -55,3 +55,4 @@ personal-philosophies:
 
 hobbies: [Gaming, Animated Films and Series, Volleyball, Pokemon]  
 ```
+[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=suiyangqiu&amp;theme=dark)](https://github.com/suiyangqiu/github-readme-stats)
